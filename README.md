@@ -1,4 +1,5 @@
-👋 Hello, everybody. I am MarkShen, a back-end developer, and excel at micro-service development. Nice to meet you!!!
+### Hi, everybody 👋 
+I am MarkShen, a back-end developer, and excel at micro-service development. Nice to meet you!!!
 
 <!--
 **MarkShen1992/MarkShen1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

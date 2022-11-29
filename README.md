@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### Project Introduction
 
 - Mashibing_High_Concurrency：Java基础，java.util.concurrent 包下类库使用。
-
 - bookstore：一些不错的资料。
 
 ### Contact Me
